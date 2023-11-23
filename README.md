@@ -35,62 +35,62 @@ I am eager to participate in challenging and innovative projects that leverage t
 <br>
 <div align="center">
    <kbd align="center">
-      <kbd><img src="https://readme-typing-svg.demolab.com?font='Space Mono'&size=14&duration=1500&pause=2000&color=ffff&center=true&vCenter=true&width=200&height=30&lines=Programming+Languages" alt="Programming Languages" /></kbd>
+      <kbd><img src="https://juliancallejas.github.io/twqTest/assets/programing-languages.svg" alt="Programming Languages" /></kbd>
       <br>
       <br>
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://readme-typing-svg.demolab.com?font='Space Mono'&size=14&duration=1630&pause=1912&color=ffff&center=true&vCenter=true&width=200&height=30&lines=Back-end" alt="Back-end" /></kbd>
+      <kbd><img src="https://juliancallejas.github.io/twqTest/assets/back-end.svg" alt="Back-end" /></kbd>
       <br>
       <br>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height=70 src="https://juliancallejas.github.io/twqTest/assets/express-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      <img height=70 src="https://juliancallejas.github.io/twqTest/assets/flask-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://readme-typing-svg.demolab.com?font='Space Mono'&size=14&duration=1530&pause=1950&color=ffff&center=true&vCenter=true&width=200&height=30&lines=Front-end" alt="Front-end" /></kbd>
+      <kbd><img src="https://juliancallejas.github.io/twqTest/assets/front-end.svg" alt="Front-end" /></kbd>
       <br>
       <br>
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height=70 src="https://juliancallejas.github.io/twqTest/assets/nextjs-line.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://readme-typing-svg.demolab.com?font='Space Mono'&size=14&duration=1580&pause=1930&color=ffff&center=true&vCenter=true&width=200&height=30&lines=Databases" alt="Databases" /></kbd>
+      <kbd><img src="https://juliancallejas.github.io/twqTest/assets/databases.svg" alt="Databases" /></kbd>
       <br>
       <br>
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-      <img width=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
-      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-      <img height=40 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
+      <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+      <img width=70 src="https://juliancallejas.github.io/twqTest/assets/microsoftsqlserver-plain-wordmark.svg" />
+      <img width=70 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+      <img height=70 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
   </kbd>
   <kbd align="center">
-        <kbd><img src="https://readme-typing-svg.demolab.com?font='Space Mono'&size=14&duration=1480&pause=1900&color=ffff&center=true&vCenter=true&width=200&height=30&lines=Tools" alt="Tools" /></kbd>
+        <kbd><img src="https://juliancallejas.github.io/twqTest/assets/tools.svg" alt="Tools" /></kbd>
         <br>
         <br>
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-        <img width=40 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        <img width=70 src="https://juliancallejas.github.io/twqTest/assets/github-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   </kbd>
 </div>
 <br>
