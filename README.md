@@ -180,9 +180,10 @@ I am eager to participate in challenging and innovative projects that leverage t
 <div align="center">
   Feel free to connect with me on  <br>
   <a href="https://www.linkedin.com/in/julian-callejas-jc-develop/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height=30/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height=25/>  
   </a>
 </div>
+<br>
 
 >>>> ---
 
