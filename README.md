@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://juliancallejas.github.io/twqTest/assets/jc-develop-logo-202311.svg"  alt="jc-develop logo" width="400">
+  <img  src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705121287/jc-develop-logo-202311_vsyq8n.svg"  alt="jc-develop logo" width="400">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=15&duration=1500&color=ffff&center=true&vCenter=true&width=500&height=30&multiline=true&lines=Hi+there!+I'm+{+jc+-+develop+}+a+Fullstack+Developer&repeat=false" alt="Typing SVG" />
   <br>
