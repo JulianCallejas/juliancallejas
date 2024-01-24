@@ -35,7 +35,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 <br>
 <div align="center">
    <kbd align="center">
-      <kbd><img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123461/programing-languages_akt9xx.svg" alt="Programming Languages" /></kbd>
+      <kbd>programing languages</kbd>
       <br>
       <br>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
@@ -44,51 +44,51 @@ I am eager to participate in challenging and innovative projects that leverage t
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123577/back-end_siwm3w.svg" alt="Back-end" /></kbd>
+      <kbd>back-end</kbd>
       <br>
       <br>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/express-original_xb77yj.svg" />
+      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/flask-original-wordmark_kvbyee.svg" />
+      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/github-jc-develop/flask-original-wordmark_kvbyee.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123725/front-end_jblw8h.svg" alt="Front-end" /></kbd>
+      <kbd>Front-end</kbd>
       <br>
       <br>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/nextjs-line_ytriv1.svg" />
+      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/github-jc-develop/nextjs-line_ytriv1.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </kbd>
   <kbd align="center">
-      <kbd><img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123853/databases_rwgknc.svg" alt="Databases" /></kbd>
+      <kbd>Databases</kbd>
       <br>
       <br>
       <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-      <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123909/microsoftsqlserver-plain-wordmark_b4olq2.svg" />
+      <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123909/github-jc-develop/microsoftsqlserver-plain-wordmark_b4olq2.svg" />
       <img width=70 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
       <img height=70 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
   </kbd>
   <kbd align="center">
-        <kbd><img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123952/tools_amxwak.svg" alt="Tools" /></kbd>
+        <kbd>Tools</kbd>
         <br>
         <br>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
         <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-original_tuedqb.svg" />
+        <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-jc-develop/github-original_tuedqb.svg" />
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
         <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
   </kbd>
@@ -98,7 +98,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 >>>> ---
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124044/soft-skills-icon_t2o6k2.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124044/github-jc-develop/soft-skills-icon_t2o6k2.png" width=50 style="border-radius:50%" /> 
   <br>
   Soft Skills
 </h3>
@@ -118,7 +118,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 >>>> ---
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124091/education-icon_amm5z4.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124091/github-jc-develop/education-icon_amm5z4.png" width=50 style="border-radius:50%" /> 
   <br>
   Education
 </h3>
@@ -139,7 +139,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 >>>> ---
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124135/featured-projects-icon_rstqgw.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124135/github-jc-develop/featured-projects-icon_rstqgw.png" width=50 style="border-radius:50%" /> 
   <br>
   Featured Projects
 </h3>
@@ -172,7 +172,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124178/collaborate-icon_jvm9qt.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124178/github-jc-develop/collaborate-icon_jvm9qt.png" width=50 style="border-radius:50%" /> 
   <br>
   Let's work together!
 </h3>
