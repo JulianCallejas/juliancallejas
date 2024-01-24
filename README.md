@@ -16,7 +16,7 @@ I utilize SCRUM methodology for optimal results.
 >>>> ---
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705121622/expectations-icon_hhzlsh.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705121622/github-jc-develop/expectations-icon_hhzlsh.png" width=50 style="border-radius:50%" /> 
   <br>
   Expectations
 </h3>
