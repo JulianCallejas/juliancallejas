@@ -28,7 +28,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 >>>> ---
 
 <h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123404/tech-skills-icon_wwdtif.png" width=50 style="border-radius:50%" /> 
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123404/github-jc-develop/tech-skills-icon_wwdtif.png" width=50 style="border-radius:50%" /> 
   <br>
   Technical Skills
 </h3>
