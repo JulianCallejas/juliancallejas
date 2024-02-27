@@ -52,7 +52,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
       <img width=70 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/github-jc-develop/flask-original-wordmark_kvbyee.svg" />
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   </kbd>
   <kbd align="center">
       <kbd>Front-end</kbd>
