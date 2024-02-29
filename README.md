@@ -189,5 +189,12 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=13&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines={+jc+-+develop+};Thanks+for+visiting+my+profile" alt="About { jc - develop }" /></div>
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&show_icons=true" />
+</picture>
