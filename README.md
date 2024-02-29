@@ -195,7 +195,6 @@ I am eager to participate in challenging and innovative projects that leverage t
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&show_icons=true"
     media="(prefers-color-scheme: dark)"
-    bg_color="black"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&show_icons=true" />
+  
 </picture>
