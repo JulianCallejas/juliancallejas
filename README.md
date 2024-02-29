@@ -189,5 +189,5 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=13&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines={+jc+-+develop+};Thanks+for+visiting+my+profile" alt="About { jc - develop }" /></div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliancallejas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas)](https://github.com/anuraghazra/github-readme-stats)
 
