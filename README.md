@@ -171,10 +171,10 @@ I am eager to participate in challenging and innovative projects that leverage t
 <p align="center" >
 <picture bg_color="black"  >
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&hide=html&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&hide=html&show_icons=true" 
     bg_color="black"  
   />
 </picture>
