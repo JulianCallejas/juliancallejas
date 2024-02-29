@@ -168,6 +168,20 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 <br>
 
+<p align="center" >
+<picture bg_color="black"  >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true" 
+    bg_color="black"  
+  />
+</picture>
+</p>
+
+
+
 >>>> ---
 
 
@@ -189,14 +203,3 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=13&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines={+jc+-+develop+};Thanks+for+visiting+my+profile" alt="About { jc - develop }" /></div>
 
-
-
-<picture bg_color="black"  >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&show_icons=true" 
-    bg_color="black"  
-  />
-</picture>
