@@ -156,7 +156,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 > 
 > - UI Development in ReactJs for a responsive word search game.
 > 
-> - [Play now](https://juliancallejas.github.io/twqTest/)
+> - [Play now](https://playtwq.com/)
 > ---
 
 > **JC Chat:** Creator & Developer
