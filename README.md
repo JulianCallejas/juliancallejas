@@ -165,7 +165,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 > 
 > - Tech Stack: MySql, NodeJs – Express API-REST, Angular
 >
-> - [Try it now]([https://playtwq.com/](https://juliancallejas.github.io/ghostchat) 
+> - [Try it now](https://juliancallejas.github.io/ghostchat) 
 > ---
 
 <br>
