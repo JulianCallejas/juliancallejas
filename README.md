@@ -159,11 +159,13 @@ I am eager to participate in challenging and innovative projects that leverage t
 > - [Play now](https://playtwq.com/)
 > ---
 
-> **JC Chat:** Creator & Developer
+> **Ghost Chat:** Creator & Developer
 > 
 > - Developed a public and private chat-rooms app.
 > 
 > - Tech Stack: MySql, NodeJs – Express API-REST, Angular
+>
+> - [Try it now]([https://playtwq.com/](https://juliancallejas.github.io/ghostchat) 
 > ---
 
 <br>
