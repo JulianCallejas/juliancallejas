@@ -145,11 +145,13 @@ I am eager to participate in challenging and innovative projects that leverage t
 </h3>
 <br>
 
-> **My Bot (Startup):** Co-founder & Developer
+> **MyBot (Startup):** Co-founder & Developer
 >
 > - Developed an AI Bot using Asterisk and Python for phone calls and chat messaging.
 >
 > - Tech Stack: NestJs, Flask, Laravel, ReactJs.
+> - > 
+> - [MyBot website](https://mybotagent.ai/)
 > --- 
 
 > **Toggled Word Quest Video Game:** Creator & Developer
