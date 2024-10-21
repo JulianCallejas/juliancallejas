@@ -93,6 +93,14 @@ I am eager to participate in challenging and innovative projects that leverage t
        <br>
       laravel
      </kbd>   
+     <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+      <br>
+      aws
+     </kbd>   
+    
+            
+          
   </kbd>
   <kbd align="center">
       <kbd>Front-end</kbd>
