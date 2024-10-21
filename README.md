@@ -71,10 +71,11 @@ I am eager to participate in challenging and innovative projects that leverage t
 </h3>
 <br>
 <div align="center">
-   <kbd align="left">
+   <kbd align="center">
       <kbd>programing languages</kbd>
       <br>
       <br>
+     <kbd align="left">
      <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
       <br>
@@ -94,6 +95,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
        <br>
        <kbd>typescript</kbd>
+       </kbd>   
        </kbd>   
    </kbd>
   <br>
