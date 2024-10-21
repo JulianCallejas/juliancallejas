@@ -44,18 +44,14 @@ I am eager to participate in challenging and innovative projects that leverage t
       python
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <br>
-      <kbd>java</kbd>
-     </kbd>   
-     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <br>
+      java
       </kbd>   
      <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <br>
-      <kbd>javascript</kbd>
+      javascript
      </kbd>   
    <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -67,50 +63,166 @@ I am eager to participate in challenging and innovative projects that leverage t
       <kbd>back-end</kbd>
       <br>
       <br>
+    <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+      <br>
+      spring
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+       <br>
+      nodejs
+     </kbd>   
+     <kbd>
       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
+       <br>
+      express
+     </kbd>   
+     <kbd>
       <img width=70 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
+       <br>
+      nestjs
+     </kbd>   
+     <kbd>
       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/github-jc-develop/flask-original-wordmark_kvbyee.svg" />
+       <br>
+      flask
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+       <br>
+      laravel
+     </kbd>   
   </kbd>
   <kbd align="center">
       <kbd>Front-end</kbd>
       <br>
       <br>
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+       <br>
+      html
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+       <br>
+      css
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+       <br>
+      sass
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+       <br>
+      react
+     </kbd>   
+     <kbd>
       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/github-jc-develop/nextjs-line_ytriv1.svg" />
+       <br>
+      nextjs
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+       <br>
+      angular
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+       <br>
+      bootstrap
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+       <br>
+      materialui
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+       <br>
+      tailwind
+     </kbd>   
   </kbd>
   <kbd align="center">
       <kbd>Databases</kbd>
       <br>
       <br>
+     <kbd>
       <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+       <br>
+      mysql
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+       <br>
+      postgres
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+       <br>
+      sqlite
+     </kbd>   
+     <kbd>
       <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123909/github-jc-develop/microsoftsqlserver-plain-wordmark_b4olq2.svg" />
+       <br>
+      sql server
+     </kbd>   
+     <kbd>
       <img width=70 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
+       <br>
+      ms access
+     </kbd>   
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+       <br>
+      mongodb
+     </kbd>   
+     <kbd>
       <img height=70 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
+       <br>
+      dynamodb
+     </kbd>   
   </kbd>
   <kbd align="center">
         <kbd>Tools</kbd>
         <br>
         <br>
+     <kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+       <br>
+      vscode
+     </kbd>   
+     <kbd>
         <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
+       <br>
+      netbeans
+     </kbd>   
+     <kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+       <br>
+      intellij
+     </kbd>   
+     <kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+       <br>
+      git
+     </kbd>   
+     <kbd>
         <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-jc-develop/github-original_tuedqb.svg" />
+       <br>
+      github
+     </kbd>   
+     <kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+       <br>
+      docker
+     </kbd>   
+     <kbd>
         <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+       <br>
+      postman
+     </kbd>   
   </kbd>
 </div>
 <br>
