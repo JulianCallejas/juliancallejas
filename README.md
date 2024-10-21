@@ -71,7 +71,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 </h3>
 <br>
 <div align="center">
-   <kbd align="center">
+   <kbd align="left">
       <kbd>programing languages</kbd>
       <br>
       <br>
