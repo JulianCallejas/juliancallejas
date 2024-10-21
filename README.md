@@ -28,6 +28,54 @@ I am eager to participate in challenging and innovative projects that leverage t
 >>>> ---
 
 <h3 align="center">
+  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124135/github-jc-develop/featured-projects-icon_rstqgw.png" width=50 style="border-radius:50%" /> 
+  <br>
+  Featured Projects
+</h3>
+<br>
+
+> **MyBot (Startup):** Co-founder & Developer
+>
+> - Developed an AI Bot using Asterisk and Python for phone calls and chat messaging.
+>
+> - Tech Stack: NestJs, Flask, Laravel, ReactJs.
+>  
+> - [MyBot website](https://mybotagent.ai/)
+> --- 
+
+> **Toggled Word Quest Video Game:** Creator & Developer
+> 
+> - UI Development in ReactJs for a responsive word search game.
+> 
+> - [Play now](https://playtwq.com/)
+> ---
+
+> **Ghost Chat:** Creator & Developer
+> 
+> - Developed a public and private chat-rooms app.
+> 
+> - Tech Stack: MySql, NodeJs – Express API-REST, Angular
+>
+> - [Try it now](https://juliancallejas.github.io/ghostchat) 
+> ---
+
+<br>
+
+<p align="center" >
+<picture bg_color="black"  >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&layout=donut-vertical&hide=html&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&&layout=donut-verticalhide=html&show_icons=true" 
+    bg_color="black"  
+  />
+</picture>
+</p>
+
+>>>> ---
+
+<h3 align="center">
   <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123404/github-jc-develop/tech-skills-icon_wwdtif.png" width=50 style="border-radius:50%" /> 
   <br>
   Technical Skills
@@ -280,56 +328,6 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 ```
 <br>
-
->>>> ---
-
-<h3 align="center">
-  <img src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705124135/github-jc-develop/featured-projects-icon_rstqgw.png" width=50 style="border-radius:50%" /> 
-  <br>
-  Featured Projects
-</h3>
-<br>
-
-> **MyBot (Startup):** Co-founder & Developer
->
-> - Developed an AI Bot using Asterisk and Python for phone calls and chat messaging.
->
-> - Tech Stack: NestJs, Flask, Laravel, ReactJs.
->  
-> - [MyBot website](https://mybotagent.ai/)
-> --- 
-
-> **Toggled Word Quest Video Game:** Creator & Developer
-> 
-> - UI Development in ReactJs for a responsive word search game.
-> 
-> - [Play now](https://playtwq.com/)
-> ---
-
-> **Ghost Chat:** Creator & Developer
-> 
-> - Developed a public and private chat-rooms app.
-> 
-> - Tech Stack: MySql, NodeJs – Express API-REST, Angular
->
-> - [Try it now](https://juliancallejas.github.io/ghostchat) 
-> ---
-
-<br>
-
-<p align="center" >
-<picture bg_color="black"  >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&layout=donut-vertical&hide=html&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&&layout=donut-verticalhide=html&show_icons=true" 
-    bg_color="black"  
-  />
-</picture>
-</p>
-
-
 
 >>>> ---
 
