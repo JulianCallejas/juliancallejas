@@ -60,6 +60,7 @@ I am eager to participate in challenging and innovative projects that leverage t
        </kbd>   
    </kbd>
   <br>
+  <br>
   <kbd align="center">
       <kbd>back-end</kbd>
       <br>
@@ -100,6 +101,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       aws
      </kbd>   
   </kbd>
+  <br>
   <br>
   <kbd align="center">
       <kbd>Front-end</kbd>
@@ -152,6 +154,7 @@ I am eager to participate in challenging and innovative projects that leverage t
      </kbd>   
   </kbd>
   <br>
+  <br>
   <kbd align="center">
       <kbd>Databases</kbd>
       <br>
@@ -192,6 +195,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       dynamodb
      </kbd>   
   </kbd>
+  <br>
   <br>
   <kbd align="center">
         <kbd>Tools</kbd>
