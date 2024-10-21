@@ -43,8 +43,10 @@ I am eager to participate in challenging and innovative projects that leverage t
          <br>
         <kbd>python</kbd>
      </a>
+     <a>
        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
         <kbd>java</kbd>
+     </a>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <kbd>javascript</kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
