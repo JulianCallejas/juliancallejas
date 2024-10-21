@@ -59,6 +59,9 @@ I am eager to participate in challenging and innovative projects that leverage t
 > - [Try it now](https://juliancallejas.github.io/ghostchat) 
 > ---
 
+<br>
+<br>
+
 >>>> ---
 
 <h3 align="center">
