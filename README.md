@@ -59,20 +59,6 @@ I am eager to participate in challenging and innovative projects that leverage t
 > - [Try it now](https://juliancallejas.github.io/ghostchat) 
 > ---
 
-<br>
-
-<p align="center" >
-<picture bg_color="black"  >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&layout=donut-vertical&hide=html&show_icons=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&&layout=donut-verticalhide=html&show_icons=true" 
-    bg_color="black"  
-  />
-</picture>
-</p>
-
 >>>> ---
 
 <h3 align="center">
@@ -330,6 +316,21 @@ I am eager to participate in challenging and innovative projects that leverage t
 <br>
 
 >>>> ---
+
+<br>
+
+<p align="center" >
+<picture bg_color="black"  >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&layout=donut-vertical&hide=html&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancallejas&theme=dark&&layout=donut-verticalhide=html&show_icons=true" 
+    bg_color="black"  
+  />
+</picture>
+</p>
+
 
 
 <h3 align="center">
