@@ -40,19 +40,29 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
      <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-       <br>
-       python
-     </kbd>   
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <br>
-     <kbd>python</kbd>   
-     <kbd>java</kbd>
-     <kbd>javascript</kbd>
-     <kbd>typescript</kbd>
-  </kbd>
+      python
+     </kbd>   
+     <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+      <br>
+      <kbd>java</kbd>
+     </kbd>   
+     <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <br>
+      </kbd>   
+     <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <br>
+      <kbd>javascript</kbd>
+     </kbd>   
+   <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+       <br>
+       <kbd>typescript</kbd>
+       </kbd>   
+   </kbd>
   <kbd align="center">
       <kbd>back-end</kbd>
       <br>
