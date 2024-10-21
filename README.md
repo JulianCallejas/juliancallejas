@@ -39,9 +39,13 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       <br>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+        <kbd>python</kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+        <kbd>java</kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <kbd>javascript</kbd>
         <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <kbd>typescript</kbd>
   </kbd>
   <kbd align="center">
       <kbd>back-end</kbd>
