@@ -38,6 +38,11 @@ I am eager to participate in challenging and innovative projects that leverage t
       <kbd>programing languages</kbd>
       <br>
       <br>
+     <kbd>
+      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+       <br>
+       python
+     </kbd>   
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
