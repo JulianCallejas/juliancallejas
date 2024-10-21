@@ -53,12 +53,13 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       javascript
      </kbd>   
-   <kbd>
+     <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
        <br>
        <kbd>typescript</kbd>
        </kbd>   
    </kbd>
+  <br>
   <kbd align="center">
       <kbd>back-end</kbd>
       <br>
@@ -98,10 +99,8 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       aws
      </kbd>   
-    
-            
-          
   </kbd>
+  <br>
   <kbd align="center">
       <kbd>Front-end</kbd>
       <br>
@@ -152,6 +151,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       tailwind
      </kbd>   
   </kbd>
+  <br>
   <kbd align="center">
       <kbd>Databases</kbd>
       <br>
@@ -192,6 +192,7 @@ I am eager to participate in challenging and innovative projects that leverage t
       dynamodb
      </kbd>   
   </kbd>
+  <br>
   <kbd align="center">
         <kbd>Tools</kbd>
         <br>
