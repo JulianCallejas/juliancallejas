@@ -43,7 +43,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 > - [MyBot website](https://mybotagent.ai/)
 > --- 
 
-> **Toggled Word Quest Video Game:** Creator & Developer
+> **Toggle Word Quest Video Game:** Creator & Developer
 > 
 > - UI Development in ReactJs for a responsive word search game.
 > 
