@@ -307,13 +307,15 @@ I am eager to participate in challenging and innovative projects that leverage t
 <br>
   
 ```Javascript
+- Certified Tech Developer: "DigitalHouse"
+
+- Diploma in Web Application Development: "Universidad Tecnológica de Pereira"
+
 - Master in Finance: "Tecnológico de Monterrey"
 
 - International Relations and Economics: "Universidad Autónoma de Colombia"
 
-- Diploma in Web Application Development: "Universidad Tecnológica de Pereira"
-
-- Diploma in University Teaching: "Tecnológico de Monterrey"
+- Diploma in University Teaching: "Politécnico Superior de Colombia"
 
 ```
 <br>
