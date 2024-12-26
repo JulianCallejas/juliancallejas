@@ -1,4 +1,10 @@
-<div style="background-color:green" >
+<style>
+    .EasyMDEContainer {
+         background-color: #F8FF91 !important;
+    }
+</style>
+
+<div class="EasyMDEContainer" >
 <div align="center">
   <img  src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705121287/github-jc-develop/jc-develop-logo-202311_vsyq8n.svg"  alt="jc-develop logo" width="400">
   <br>
