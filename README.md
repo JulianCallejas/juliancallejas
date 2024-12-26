@@ -4,7 +4,7 @@
 <div align="center">
   <img  src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705121287/github-jc-develop/jc-develop-logo-202311_vsyq8n.svg"  alt="jc-develop logo" width="400">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=15&duration=1500&color=#00803e&center=true&vCenter=true&width=500&height=30&multiline=true&lines=Hi+there!+I'm+{+jc+-+develop+}+a+Fullstack+Developer&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=15&duration=1500&color=00803e&center=true&vCenter=true&width=500&height=30&multiline=true&lines=Hi+there!+I'm+{+jc+-+develop+}+a+Fullstack+Developer&repeat=false" alt="Typing SVG" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font='Victor Mono'&size=13&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines=Frontend+Developer;Backend+Developer;Inquisitive+by+nature;AI+enthusiast;Football+lover;Entrepreneur;Confident+and+ambitious;Self-taught+Learner;Young+at+heart;Christ+follower;Guitar+player;Finance Tutor" alt="About { jc - develop }" />
 </div>
