@@ -294,7 +294,7 @@ I am eager to participate in challenging and innovative projects that leverage t
        junit
      </kbd>
     <kbd>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
          <br>
       swagger
      </kbd>
