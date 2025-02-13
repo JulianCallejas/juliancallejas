@@ -96,7 +96,7 @@ I am eager to participate in challenging and innovative projects that leverage t
      <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
        <br>
-       <kbd>typescript</kbd>
+       typescript
        </kbd>   
    </kbd>
   <br>
@@ -106,40 +106,40 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       <br>
     <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-      <br>
-      spring
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+       <br>
+       spring
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
        <br>
-      nodejs
+       nodejs
      </kbd>   
      <kbd>
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
+       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123619/github-jc-develop/express-original_xb77yj.svg" />
        <br>
-      express
+       express
      </kbd>   
      <kbd>
-      <img width=70 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
+       <img width=70 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
        <br>
-      nestjs
+       nestjs
      </kbd>   
      <kbd>
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/github-jc-develop/flask-original-wordmark_kvbyee.svg" />
+       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123681/github-jc-develop/flask-original-wordmark_kvbyee.svg" />
        <br>
-      flask
+       flask
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
        <br>
-      laravel
+       laravel
      </kbd>   
      <kbd>
       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
       <br>
       aws
-     </kbd>   
+      </kbd>   
   </kbd>
   <br>
   <br>
@@ -148,49 +148,49 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       <br>
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
        <br>
-      html
+       html
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
        <br>
-      css
+       css
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
        <br>
-      sass
+       sass
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
        <br>
-      react
+       react
      </kbd>   
      <kbd>
-      <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/github-jc-develop/nextjs-line_ytriv1.svg" />
+       <img height=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123770/github-jc-develop/nextjs-line_ytriv1.svg" />
        <br>
-      nextjs
+       nextjs
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
        <br>
-      angular
+       angular
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
        <br>
-      bootstrap
+       bootstrap
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
        <br>
-      materialui
+       materialui
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
        <br>
-      tailwind
+       tailwind
      </kbd>   
   </kbd>
   <br>
@@ -200,39 +200,39 @@ I am eager to participate in challenging and innovative projects that leverage t
       <br>
       <br>
      <kbd>
-      <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+       <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
        <br>
-      mysql
+       mysql
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
        <br>
-      postgres
+       postgres
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
        <br>
-      sqlite
+       sqlite
      </kbd>   
      <kbd>
-      <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123909/github-jc-develop/microsoftsqlserver-plain-wordmark_b4olq2.svg" />
+       <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123909/github-jc-develop/microsoftsqlserver-plain-wordmark_b4olq2.svg" />
        <br>
-      sql server
+       sql server
      </kbd>   
      <kbd>
-      <img width=70 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
+       <img width=70 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38594/preview.svg" />
        <br>
-      ms access
+       ms access
      </kbd>   
      <kbd>
-      <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
        <br>
-      mongodb
+       mongodb
      </kbd>   
      <kbd>
-      <img height=70 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
+       <img height=70 src="https://miro.medium.com/v2/resize:fit:700/1*cmfoGi3FnVIBCwvmVLYgjg.png" />
        <br>
-      dynamodb
+       dynamodb
      </kbd>   
   </kbd>
   <br>
@@ -242,56 +242,61 @@ I am eager to participate in challenging and innovative projects that leverage t
         <br>
         <br>
      <kbd>
-        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
        <br>
-      vscode
+       vscode
      </kbd>   
      <kbd>
-        <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
+       <img width=70 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" />
        <br>
-      netbeans
+       netbeans
      </kbd>   
      <kbd>
-        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
        <br>
-      intellij
+       intellij
      </kbd>   
      <kbd>
-        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
        <br>
-      git
+       git
      </kbd>   
      <kbd>
-        <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-jc-develop/github-original_tuedqb.svg" />
+       <img width=70 src="https://res.cloudinary.com/dphleqb5t/image/upload/v1705123998/github-jc-develop/github-original_tuedqb.svg" />
        <br>
-      github
+       github
      </kbd>   
      <kbd>
-        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
        <br>
-      docker
+       docker
      </kbd>   
   </kbd>
   <br>
   <br>
   <kbd align="center">
-        <kbd>Testing</kbd>
+        <kbd>Testing & Documentation</kbd>
         <br>
         <br>
      <kbd>
-        <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+       <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
        <br>
-      postman
+       postman
      </kbd> 
      <kbd>
-        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
        <br>
-      jest
+       jest
      </kbd>
     <kbd>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
+       <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
        <br>
-      junit
+       junit
+     </kbd>
+    <kbd>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+         <br>
+      swagger
      </kbd>
 </div>
 <br>
