@@ -271,12 +271,28 @@ I am eager to participate in challenging and innovative projects that leverage t
        <br>
       docker
      </kbd>   
+  </kbd>
+  <br>
+  <br>
+  <kbd align="center">
+        <kbd>Testing</kbd>
+        <br>
+        <br>
      <kbd>
         <img width=70 src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
        <br>
       postman
-     </kbd>   
-  </kbd>
+     </kbd> 
+     <kbd>
+        <img width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+       <br>
+      jest
+     </kbd>
+    <kbd>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
+       <br>
+      junit
+     </kbd>
 </div>
 <br>
 
