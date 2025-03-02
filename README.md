@@ -62,6 +62,15 @@ I am eager to participate in challenging and innovative projects that leverage t
 > - [Try it now](https://juliancallejas.github.io/ghostchat) 
 > ---
 
+> **Age of Dragons:** Creator & Developer
+> 
+> - Designed a Skill Tree project with render bugs to optimize, and made the optimizations.
+> 
+> - Tech Stack: ReactJs, Redux, ReactFlow
+>
+> - [Check it out](https://juliancallejas.github.io/age-of-dragons-optimization/) 
+> ---
+
 <br>
 <br>
 
