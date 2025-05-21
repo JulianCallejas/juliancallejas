@@ -37,20 +37,23 @@ I am eager to participate in challenging and innovative projects that leverage t
 </h3>
 <br>
 
-> **MyBot (Startup):** Co-founder & Developer
->
-> - Developed an AI Bot using Asterisk and Python for phone calls and chat messaging.
->
-> - Tech Stack: NestJs, Flask, Laravel, ReactJs.
->  
-> - [MyBot website](https://mybotagent.ai/)
-> --- 
 
 > **Toggle Word Quest Video Game:** Creator & Developer
 > 
 > - UI Development in ReactJs for a responsive word search game.
+>
+> - Tech Stack: React.js, Redux, Sass, Nest.js, PostgreSql, Prisma, Clerk, Webhooks
 > 
 > - [Play now](https://playtwq.com/)
+> ---
+
+> **Postaly postal code search:** Creator & Developer
+> 
+> - Responsive React.js application featuring interactive maps for efficient postal code lookup.
+>   
+> - Tech Stack: React.js, Zustand, Shadcn, OpenStreetMap, Tailwind, postal-code-api.kainext.cl
+> 
+> - [Search your postal code now](https://postaly.cl/)
 > ---
 
 > **Ghost Chat:** Creator & Developer
@@ -70,6 +73,15 @@ I am eager to participate in challenging and innovative projects that leverage t
 >
 > - [Check it out](https://juliancallejas.github.io/age-of-dragons-optimization/) 
 > ---
+
+> **MyBot (Startup):** Co-founder & Developer
+>
+> - Developed an AI Bot using Asterisk and Python for phone calls and chat messaging.
+>
+> - Tech Stack: NestJs, Flask, Laravel, ReactJs.
+>  
+> --- 
+
 
 <br>
 <br>
