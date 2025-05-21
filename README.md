@@ -6,7 +6,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=15&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Hi+there!+I'm+%7B+jc+-+develop+%7D+a+Fullstack+Developer" alt="Hi there! I'm %7D jc - develop %7D a Fullstack+Developer" />
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=15&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines=Frontend+Developer;Backend+Developer;Inquisitive+by+nature;AI+enthusiast;Football+lover;Entrepreneur;Confident+and+ambitious;Self-taught+Learner;Young+at+heart;Christ+follower;Guitar+player;Finance+Tutor" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=15&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines=Frontend+Developer;Backend+Developer;Inquisitive+by+nature;AI+enthusiast;Football+lover;Entrepreneur;Confident+and+ambitious;Self-taught+Learner;Young+at+heart;Christ+follower;Guitar+player;Finance+Tutor" alt="Typing SVG" />
 </div>
 <br>
 
@@ -387,6 +387,6 @@ I am eager to participate in challenging and innovative projects that leverage t
 
 >>>> ---
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=15&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines=%7B+jc+-+develop+%7D;Thanks+for+visiting+my+profile" alt="Typing SVG" /></a></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=15&duration=1500&pause=1000&color=00803E&center=true&vCenter=true&width=500&height=30&lines=%7B+jc+-+develop+%7D;Thanks+for+visiting+my+profile" alt="Typing SVG" /></div>
 
 </div>
