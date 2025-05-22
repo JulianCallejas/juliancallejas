@@ -53,7 +53,7 @@ I am eager to participate in challenging and innovative projects that leverage t
 >   
 > - Tech Stack: React.js, Zustand, Shadcn, OpenStreetMap, Tailwind, postal-code-api.kainext.cl
 > 
-> - [Search your postal code now](https://postaly.cl/)
+> - [Find your postal code!](https://postaly.cl/)
 > ---
 
 > **Ghost Chat:** Creator & Developer
